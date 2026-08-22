@@ -1,0 +1,46 @@
+{
+  "Thomaslebgdu67": {
+    "username": "Thomaslebgdu67",
+    "money": 110,
+    "clicks": 8,
+    "progress": 8,
+    "pickaxe": 0,
+    "luck": 1,
+    "researchSpeed": 1,
+    "inventory": {
+      "Charbon|none": 0
+    },
+    "discovered": {
+      "Charbon": true
+    },
+    "identified": {
+      "Charbon": true
+    },
+    "processed": {},
+    "police": false,
+    "security": false,
+    "nextMineral": null
+  },
+  "Thomas lebest": {
+    "username": "Thomas lebest",
+    "money": 110,
+    "clicks": 8,
+    "progress": 8,
+    "pickaxe": 0,
+    "luck": 1,
+    "researchSpeed": 1,
+    "inventory": {
+      "Charbon|none": 0
+    },
+    "discovered": {
+      "Charbon": true
+    },
+    "identified": {
+      "Charbon": true
+    },
+    "processed": {},
+    "police": false,
+    "security": false,
+    "nextMineral": null
+  }
+}
